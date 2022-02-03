@@ -3,11 +3,11 @@ http://baleart.projectebaleart.com/public/
 
 Exemple de consulta: http://baleart.projectebaleart.com/public/api/municipis
 
-municipis	GET		/municipis		    Retorna tots els municipis	
-municipis	GET		/municipis/{id}	    Retorna un municipi en concret	
-municipis	POST	/municipis		    Crea un nou municipi	                        nom_municipi, illa
-municipis	PUT		/municipis/{id}	    Modifica algun atribut de municipis	            nom_municipi, illa
-municipis	DELETE	/municipis/{id}	    Esborra un municipi	
+municipis	GET		/municipis		    Retorna tots els municipis  
+municipis	GET		/municipis/{id}	    Retorna un municipi en concret  
+municipis	POST	/municipis		    Crea un nou municipi	                        nom_municipi, illa  
+municipis	PUT		/municipis/{id}	    Modifica algun atribut de municipis	            nom_municipi, illa  
+municipis	DELETE	/municipis/{id}	    Esborra un municipi  
     
 tipus		GET		/tipus			    Retorna tots els tipus	
 tipus		GET		/tipus/{id}		    Retorna un tipus en concret	
