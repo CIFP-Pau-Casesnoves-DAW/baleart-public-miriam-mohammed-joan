@@ -39,7 +39,7 @@ exposicions	POST	/exposicions	    Crea una nova exposició a la base de dades	  
 exposicions	PUT		/exposicions/{id}	Modifica una exposició donat el seu ID      	id_espai, titol_expo, data_inici, data_fi, descripcio_expo_es, descripcio_expo_ca, descripcio_expo_en  
 exposicions	DELETE	/exposicions/{id}	Borra una exposició donat el seu ID  	
 				
-modalitats(&nbsp;)(&nbsp;)(&nbsp;)(&nbsp;)	GET		/modalitats	        Llistat de totes les modalitats de la base de dades  	
+modalitats&emsp;GET		/modalitats	        Llistat de totes les modalitats de la base de dades  	
 modalitats	GET		/modalitats/{id}	Retorna una modalitat donat el seu ID  	
 modalitats	POST	/modalitats	        Crea una nova modalitat a la base de dades	    nom_modalitat, descripcio_modalitat_es, descripcio_modalitat_ca, descripcio_modalitat_es  
 modalitats	PUT		/modalitats/{id}	Modifica una modalitat donat el seu ID	        nom_modalitat, descripcio_modalitat_es, descripcio_modalitat_ca, descripcio_modalitat_es  
